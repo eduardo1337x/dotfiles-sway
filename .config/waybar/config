@@ -1,0 +1,11 @@
+{
+    "layer": "top",
+    "modules-left": ["sway/workspaces"],
+    "modules-center": [],
+    "modules-right": ["battery", "clock"],
+
+    "battery": {
+        "format": "{capacity} ",
+        "format-charging": "{capacity} "
+    },
+}

@@ -1,0 +1,22 @@
+* {
+  font-family: "JetBrainsMono Nerd Font";
+  font-size: 15px;
+  color: white;
+  min-height: 0;
+}
+
+window#waybar {
+  background: transparent;
+}
+
+#workspaces button.focused {
+  border: 1px solid #fff;
+  border-radius: 10px;
+}
+.modules-left{
+  border-radius: 10px;
+}
+.modules-right{
+  border-radius: 10px;
+  padding: 0 15px;
+}
